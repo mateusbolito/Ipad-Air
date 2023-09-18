@@ -7,53 +7,51 @@ display: flex;
 align-items: center;
 justify-content: center;
 
-
-
 svg {
 color: #fff;
-margin-bottom: -8px;
+margin-bottom: -0.5rem;
 
 }
 
 img {
 width: 22px;
-margin-bottom: -8px;
-margin-right: 20px;
+margin-bottom: -0.5rem;
+margin-right: 1.375rem;
 
 
 }
 ul {
 list-style: none;
-
-
 text-align: center;
-height: 3500px;
+height: 218.75rem;
 }
+
 ul li {
 display: inline-block;
 position: relative;
-font-size: 13px;
+font-size: 0.813rem;
 
 
 }
 ul li a {
 display: block;
-padding: 20px 12px;
-color: rgba(255, 255, 255, .8);;
+padding: 1.25rem 0.75rem;
+color: rgba(255, 255, 255, .8);
 text-decoration: none;
 text-align: center;
 
-
 }
+
 ul li ul.dropdown li {
 display: block;
 background: #3333;
-margin: 2px 0px;
-border-radius: 2px;
+margin: 0.125rem 0px;
+border-radius: 0.125rem;
 font-weight: 500;
-font-size: 18px;
+font-size: 1.125rem;
 
 }
+
 ul li ul.dropdown {
 width:auto;
 
