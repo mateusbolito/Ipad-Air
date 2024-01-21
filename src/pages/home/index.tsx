@@ -22,7 +22,7 @@ const items: HeaderProps[] = [
   { title: "AirPods", description: "Galaxy", type: "iphone" },
   { title: "TV e Casa", description: "Box", type: "iphone" },
   { title: "Entretenimento", description: "Musica", type: "iphone" },
-  { title: "Acessorios", description: "IPHONE", type: "iphone" },
+  { title: "Acessorios", description: "IPHONE", type: "mac" },
   { title: "Suporte", description: "Mac 16 Pro", type: "iphone" },
 ];
 export const Home = () => {

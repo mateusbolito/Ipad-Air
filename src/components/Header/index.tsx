@@ -24,7 +24,7 @@ export const Header = ({ items }: IRate) => {
               <a href="#"> {item.title} &#x25BE;</a>
               <ul className="dropdown">
                 <li>
-                  <a href="#"> {item.description}</a>
+                  <a href="#"> {item.type}</a>
                   <a href="#"> {item.description}</a>
                   <a href="#"> {item.description}</a>
                   <a href="#">{item.description}</a>
